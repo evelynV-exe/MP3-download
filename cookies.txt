@@ -1,0 +1,20 @@
+# Netscape HTTP Cookie File
+# Replace the values below with your own local cookies if needed.
+# DO NOT upload real session cookies to public repositories.
+# Do not commit your real cookies to GitHub. 
+# The cookies you pasted contain active authentication/session tokens and should be treated like passwords. 
+# Rotate/logout your Google account sessions if these were exposed publicly.
+
+# Use the 'Get cookies.txt LOCALLY' extension on your browser and export as cookies.txt
+
+.youtube.com	TRUE	/	TRUE	2147483647	VISITOR_INFO1_LIVE	EXAMPLE_VISITOR
+.youtube.com	TRUE	/	TRUE	2147483647	PREF	f6=40000000&tz=Asia.Bangkok
+.youtube.com	TRUE	/	TRUE	2147483647	YSC	EXAMPLE_YSC
+.youtube.com	TRUE	/	TRUE	2147483647	LOGIN_INFO	EXAMPLE_LOGIN_INFO
+.youtube.com	TRUE	/	TRUE	2147483647	SID	EXAMPLE_SID
+.youtube.com	TRUE	/	TRUE	2147483647	HSID	EXAMPLE_HSID
+.youtube.com	TRUE	/	TRUE	2147483647	SSID	EXAMPLE_SSID
+.youtube.com	TRUE	/	TRUE	2147483647	APISID	EXAMPLE_APISID
+.youtube.com	TRUE	/	TRUE	2147483647	SAPISID	EXAMPLE_SAPISID
+.youtube.com	TRUE	/	TRUE	2147483647	__Secure-1PSID	EXAMPLE_1PSID
+.youtube.com	TRUE	/	TRUE	2147483647	__Secure-3PSID	EXAMPLE_3PSID
